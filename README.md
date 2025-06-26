@@ -59,13 +59,6 @@
 
 ---
 
-## 📎 Submission Link
-
-After uploading your files to GitHub, submit your GitHub Repository link here:  
-🔗 [Google Form - Submit Here](https://forms.gle/sinyNtXpUo2dNwzC8)
-
----
-
 ## 📌 Notes
 
 - Language used: **Java**
